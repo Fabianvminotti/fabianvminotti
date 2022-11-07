@@ -1,9 +1,4 @@
 # Hola, mi nombre es Fabian 👋
-
-###### :mortar_board: Soy estudiante desarrollador de software y ademas estudio ingenieria
-###### :seedling: Estoy aprendiendo desarrollo FrontEnd con la idea de poder ser FullStack developer en un tiempo.
-######  :star: En este lugar podras encontrar algunos proyectos personales y practicas que hago para mejorar mis habilidades
-
  
 
 # :briefcase: Lenguajes, herramietas y tecnologias
